@@ -25,7 +25,7 @@ Dong, X., Li, Z., <b>Mao, Z.</b>, Lin, T..
 <b>[Smoothed Particle Hydrodynamics Simulation of Liquid Drop Impinging Hypoelastic Surfaces](https://maozirui.github.io/publications/SPH_impinging_2020)</b> <br> 
 Dong, X., Li, Z., <b>Mao, Z.</b>, Liu, Y.
 <i>International Journal of Computational Methods 2020</i>.
-
+<br>
 ____________
 <b>2019</b>
 <br>
@@ -44,7 +44,8 @@ ____________
 
 
 ____________
-<b>2018</b>
+<b>2018</b> 
+<br>
 <b>[A Lagrangian gradient smoothing method for solid‐flow problems using simplicial mesh](https://maozirui.github.io/publications/L-GSM_solid_2018)</b> <br> 
 <b>Zirui Mao</b>, G.R. Liu.
 <i>International Journal for Numerical Methods in Engineering 2018</i>.
@@ -52,10 +53,11 @@ ____________
 <b>[A smoothed particle hydrodynamics model for electrostatic transport of charged lunar dust on the moon surface](https://maozirui.github.io/publications/SPH_LunarDust_2018)</b> <br> 
 <b>Zirui Mao</b>, G.R. Liu.
 <i>Computational Particle Mechanics 2018</i>.
-
+<br>
 
 ____________
 <b>2017</b>
+<br>
 <b>[A comprehensive study on the parameters setting in smoothed particle hydrodynamics (SPH) method applied to hydrodynamics problems](https://maozirui.github.io/publications/SPH_parametric_study_2017)</b> <br> 
 <b>Zirui Mao</b>, G.R. Liu, Xiangwei Dong.
 <i>Computers & Geotechnics 2017</i>.
