@@ -38,7 +38,7 @@ ____________
 <b>[A conservative and consistent Lagrangian gradient smoothing method for simulating free surface flows in hydrodynamics](https://maozirui.github.io/publications/L-GSM_fluid_2019)</b> <br> 
 <b>Zirui Mao</b>, G.R. Liu, Xiangwei Dong, Tao Lin.
 <i>Computational Particle Mechanics 2019</i>.
-<br>
+<br> 
 
 ____________
 <b>2018</b> 
