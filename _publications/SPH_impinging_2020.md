@@ -2,7 +2,7 @@
 title: "Smoothed Particle Hydrodynamics Simulation of Liquid Drop Impinging Hypoelastic Surfaces"
 collection: publications
 permalink: /publications/SPH_impinging_2020
-date: 2020
+date: 2020-2-1
 venue: 'International Journal of Computational Methods'
 ---
 
