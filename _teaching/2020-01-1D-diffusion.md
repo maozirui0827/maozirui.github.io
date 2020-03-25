@@ -1,9 +1,9 @@
 ---
 title: "1D diffusion freeware"
 collection: teaching
-type: "Tutorial freeware"
+type: "Matlab GUI"
 permalink: /teaching/2020-01-1D-diffusion
-venue: "Matlab GUI"
+venue: "Tutorial freeware"
 date: 2020-01-23
 location: "College Station, TX, USA"
 ---
