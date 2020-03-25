@@ -1,7 +1,7 @@
 # main links links
 main:
     - title: "CV/Bio"
-    url: /cv/
+    url: /files/maozirui_cv.pdf
     
   - title: "Research"
     url: /portfolio/
@@ -9,8 +9,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+ # - title: "Talks"
+ #  url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
