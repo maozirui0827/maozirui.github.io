@@ -4,9 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-____________
-<b>2020</b>
-<br>
+## 2020
 <b>[Perfectly matched layer absorbing boundary conditions for Euler equations with oblique mean flows modeled with smoothed particle hydrodynamics](https://maozirui.github.io/publications/SPH_BC_2020)</b> <br> 
 Jie Yang, Xinyu Zhang, G. R. Liu, <b>Zirui Mao</b>, and Wenping Zhang
 <i>The Journal of the Acoustical Society of America 2020</i>.
@@ -24,9 +22,7 @@ Dong, X., Li, Z., <b>Mao, Z.</b>, Liu, Y.
 <i>International Journal of Computational Methods 2020</i>.
 <br>
 
-____________
-<b>2019</b>
-<br>
+## 2019
 <b>[A conservative and consistent Lagrangian gradient smoothing method for earthquake-induced landslide simulation](https://maozirui.github.io/publications/L-GSM_landslide_2019)</b> <br> 
 <b>Zirui Mao</b>, G.R. Liu, Yu Huang, Yangjuan Bao.
 <i>Engineering Geology 2019</i>.
@@ -40,9 +36,7 @@ ____________
 <i>Computational Particle Mechanics 2019</i>.
 <br> 
 
-____________
-<b>2018</b> 
-<br>
+## 2018
 <b>[A Lagrangian gradient smoothing method for solid‐flow problems using simplicial mesh](https://maozirui.github.io/publications/L-GSM_solid_2018)</b> <br> 
 <b>Zirui Mao</b>, G.R. Liu.
 <i>International Journal for Numerical Methods in Engineering 2018</i>.
@@ -52,9 +46,7 @@ ____________
 <i>Computational Particle Mechanics 2018</i>.
 <br>
 
-____________
-<b>2017</b>
-<br>
+## 2017
 <b>[A comprehensive study on the parameters setting in smoothed particle hydrodynamics (SPH) method applied to hydrodynamics problems](https://maozirui.github.io/publications/SPH_parametric_study_2017)</b> <br> 
 <b>Zirui Mao</b>, G.R. Liu, Xiangwei Dong.
 <i>Computers & Geotechnics 2017</i>.
