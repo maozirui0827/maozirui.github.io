@@ -19,7 +19,7 @@ Work experience
 ======
 * 06/2019 - present: Postdoc Researcher
   * Texas A&M University \| Supervisor: Professor [Michael J Demkowicz](https://demkowicz.tamu.edu/people/michael-j-demkowicz/)
-  * Duties included: Phase Field modeling and optimal control of material microstruture evolution
+  * Duties included: Phase Field modeling and optimal control of material microstruture evolution during processing
 
 * 08/2015 - 05/2019: Assistant Researcher
   * [UC-P&G Simulation Center](https://ceas.uc.edu/research/centers-labs/uc-simulation-center/mission.html)
