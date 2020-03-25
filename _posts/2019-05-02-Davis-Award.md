@@ -1,5 +1,5 @@
 ---
-title: 'wins R.T. Davis Award'
+title: 'Wins R.T. Davis Award'
 date: 2019-05-02
 permalink: /posts/2012/08/blog-post-4/
 tags:
