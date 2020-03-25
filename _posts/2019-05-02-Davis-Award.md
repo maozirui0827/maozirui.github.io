@@ -1,7 +1,7 @@
 ---
 title: 'Wins R.T. Davis Award'
 date: 2019-05-02
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2019-05-02-Davis-Award/
 tags:
   - cool posts
   - category1
