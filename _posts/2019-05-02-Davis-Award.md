@@ -1,5 +1,5 @@
 ---
-title: 'Wins R.T. Davis Award'
+title: 'Win R.T. Davis Award'
 date: 2019-05-02
 permalink: /posts/2019-05-02-Davis-Award/
 tags:
@@ -8,7 +8,7 @@ tags:
   - category2
 ---
 
-Zirui Mao wins R.T Davis Award from University of Cincinnati. 
+Zirui Mao won R.T Davis Award from University of Cincinnati. 
 
 <p align="center">
   <img src="https://maozirui.github.io/images/group.png?raw=true" alt="Photo" style="width: 550px;"/> 
