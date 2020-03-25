@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Aerospace Engineering and Engineering Mechanics, University of Cincinnati, 2019
+* Ph.D in Aerospace Engineering, University of Cincinnati, 2019
 * M.S. in Solid Mechanics, Tianjin University, 2013
 * B.S. in Physics, Hebei Normal University, 2010
 
