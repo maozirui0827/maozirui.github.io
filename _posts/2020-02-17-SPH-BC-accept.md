@@ -1,6 +1,6 @@
 ---
 title: 'A new paper is accepted by ASA'
-date: 2019-10-23
+date: 2020-02-17
 permalink: /posts/2020-02-17-SPH-BC-accept/
 tags:
   - cool posts
