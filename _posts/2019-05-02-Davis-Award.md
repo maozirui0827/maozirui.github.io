@@ -1,5 +1,5 @@
 ---
-title: 'Zirui Mao won R.T. Davis Award from University of Cincinnati'
+title: 'wins R.T. Davis Award'
 date: 2019-05-02
 permalink: /posts/2012/08/blog-post-4/
 tags:
@@ -8,4 +8,9 @@ tags:
   - category2
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+Zirui Mao wins R.T Davis Award from University of Cincinnati. 
+
+<p align="center">
+  <img src="https://maozirui.github.io/images/group.png?raw=true" alt="Photo" style="width: 550px;"/> 
+</p>
+[UC Aerospace Engineering and Engineering Mechanics department awards 40 scholarships, 2019](https://www.uc.edu/news/articles/2019/05/n20834009.html) 
