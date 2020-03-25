@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## 2020
-<b>Perfectly matched layer absorbing boundary conditions for Euler equations with oblique mean flows modeled with smoothed particle hydrodynamics(https://maozirui.github.io/publications/SPH_BC_2020)</b> <br> 
+<b>[Perfectly matched layer absorbing boundary conditions for Euler equations with oblique mean flows modeled with smoothed particle hydrodynamics](https://maozirui.github.io/publications/SPH_BC_2020)</b> <br> 
 Jie Yang, Xinyu Zhang, G. R. Liu, <b>Zirui Mao</b>, and Wenping Zhang
 <i>The Journal of the Acoustical Society of America 2020</i>.
 
