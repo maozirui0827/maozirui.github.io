@@ -25,7 +25,7 @@ Work experience
   * [UC-P&G Simulation Center](https://ceas.uc.edu/research/centers-labs/uc-simulation-center/mission.html)
   * Duties included: Development of highly-effcient physics-based models for predicting failure, bond strength, and deformation of polymeric materials under high-strain-rate compression and thermal/mechanics bonding
   
-* 08/2014 - 05/2019: Research Assistant Researcher
+* 08/2014 - 05/2019: Assistant Researcher
   * University of Cincinnati \| Supervisor: Professor [G.R. Liu](http://www.ase.uc.edu/~liugr/people.html)
   * Duties included: Noval meshfree method development and improvement for modeling large deformation problems
   
