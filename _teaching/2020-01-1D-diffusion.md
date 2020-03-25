@@ -2,7 +2,7 @@
 title: "1D diffusion freeware"
 collection: teaching
 type: "Tutorial freeware"
-permalink: /teaching/2014-software-1
+permalink: /teaching/2020-01-1D-diffusion
 venue: "Matlab GUI"
 date: 2020-01-23
 location: "College Station, TX, USA"
