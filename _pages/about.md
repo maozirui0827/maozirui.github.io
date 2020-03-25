@@ -13,7 +13,7 @@ redirect_from:
 </p>
 [UC Aerospace Engineering and Engineering Mechanics department awards 40 scholarships, 2019](https://www.uc.edu/news/articles/2019/05/n20834009.html) 
 
-![](images/Shear Peeling Process.gif.gif)
+![](images/Shear Peeling Process.gif)
 
 # About Me
 ======
