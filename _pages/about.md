@@ -20,5 +20,4 @@ Computational Mechanics, Meshfree Methods, High performance computation, Softwar
 <img src="https://maozirui.github.io/images/Shear Peeling Process.gif" width="750"/>
 </p>
 
-
 # Under Construction
