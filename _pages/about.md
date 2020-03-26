@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://maozirui.github.io/images/Computational_Mechanics.png?raw=true" alt="Photo" style="width: 750px;"/> 
+  <img src="https://maozirui.github.io/images/Computational_Mechanics.png" alt="Photo" style="width: 750px;"/> 
 </p>
 
 <p align="center">
