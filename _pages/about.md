@@ -12,8 +12,6 @@ redirect_from:
   <img src="https://maozirui.github.io/images/Computational_Mechanics.png" alt="Photo" style="width: 750px;"/> 
 </p>
   
-  
-  
 # Areas of expertise
 
 Computational Mechanics, Meshfree Methods, High performance computation, Software development and design, Optimal control, Highly efficient physics-based models, Earthquake harzards, Material processing, Numerical modeling of free-surface flows under large deformation in Geotechnical Engineering/Hydrodynamics/Material Engineering.
@@ -22,5 +20,4 @@ Computational Mechanics, Meshfree Methods, High performance computation, Softwar
 <img src="https://maozirui.github.io/images/Shear Peeling Process.gif" width="750"/>
 </p>
   
-    
 # Under Construction
