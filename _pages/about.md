@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-
+<p align="center">
+  <img src="https://maozirui.github.io/images/Computational_Mechanics.png?raw=true" alt="Photo" style="width: 750px;"/> 
+</p>
 
 <p align="center">
 <img src="https://maozirui.github.io/images/Shear Peeling Process.gif" width="750"/>
