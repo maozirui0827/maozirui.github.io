@@ -11,7 +11,6 @@ redirect_from:
 <p align="center">
   <img src="https://maozirui.github.io/images/CM1.png" alt="Photo" style="width: 750px;"/> 
 </p>
-  
 # Areas of expertise
 
   * Computational Mechanics 
@@ -26,7 +25,9 @@ redirect_from:
   * Earthquake harzards 
   * Material processing 
   * Numerical modeling of free-surface flows under large deformation in 
-    * Geotechnical Engineering | Hydrodynamics | Material Engineering
+    * Geotechnical Engineering, *e.g.* landslide \| soil column collapse 
+    * Hydrodynamics, *e.g.* breaking dam \| splash \| discharge 
+    * Material processing, *e.g.* squeeze flow \& bond of polymers
 
 <p align="center">
 <img src="https://maozirui.github.io/images/Shear Peeling Process.gif" width="750"/>
