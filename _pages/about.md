@@ -21,7 +21,7 @@ redirect_from:
   * High performance computation 
   * Software development and design 
   * Optimal control algorithms 
-  * Highly efficient physics-based models 
+  * Highly efficient physics-based models
 
 
 <p align="center">
