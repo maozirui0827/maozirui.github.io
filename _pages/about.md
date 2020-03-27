@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://maozirui.github.io/images/CM1.png" alt="Photo" style="width: 750px;"/> 
+  <img src="https://maozirui.github.io/images/CM2.png" alt="Photo" style="width: 750px;"/> 
 </p>
 
 # Areas of expertise
