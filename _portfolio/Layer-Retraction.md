@@ -16,4 +16,4 @@ collection: portfolio
 
 ## Retraction of finite plate with different aspect ratios 
 
-<img src="https://maozirui.github.io/images/36.gif" width="500"/>  <img src="https://maozirui.github.io/images/60.gif" width="500"/>
+<img src="https://maozirui.github.io/images/36.gif" width="375"/>  <img src="https://maozirui.github.io/images/60.gif" width="375"/>
