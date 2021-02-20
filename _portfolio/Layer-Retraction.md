@@ -15,3 +15,12 @@ collection: portfolio
 ## Retraction of finite plate with different aspect ratios 
 
 <img src="https://maozirui.github.io/images/36.gif" width="375"/>  <img src="https://maozirui.github.io/images/60.gif" width="375"/>
+
+
+
+## Plateau-Rayleigh instability of finite long (Left) and infinitely long (Right) cylinder due to surface perturbation
+
+<img src="https://maozirui.github.io/images/finite cylinder retraction.gif" width="375"/><img src="https://maozirui.github.io/images/cylinder retraction.gif" width="375"/>
+
+
+
