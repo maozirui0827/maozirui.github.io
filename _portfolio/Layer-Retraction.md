@@ -1,6 +1,8 @@
 ---
 title: "Phase Field Modeling of microstructure evolution"
-excerpt: "Layer retraction with a constant mobility of material <br/><img src='/images/independent.gif'>"
+excerpt: "Layer retraction with a constant mobility of material <p align="center">
+<img src="https://maozirui.github.io/images/Shear Peeling Process.gif" width="750"/>
+</p>"
 collection: portfolio
 ---
 
