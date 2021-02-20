@@ -23,9 +23,9 @@ redirect_from:
   * Optimal control algorithms 
   * Highly efficient physics-based models
 
-
 <p align="center">
-<img src="https://maozirui.github.io/images/Shear Peeling Process.gif" width="750"/>
+<img src="https://maozirui.github.io/images/dependent.gif" width="750"/>
 </p>
-  
+
+
 # Under Construction
