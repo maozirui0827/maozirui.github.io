@@ -8,4 +8,4 @@ tags:
   - category2
 ---
 
-Our paper entitled '[Perfectly matched layer absorbing boundary conditions for Euler equations with oblique mean flows modeled with smoothed particle hydrodynamics](https://asa.scitation.org/doi/abs/10.1121/10.0000648)' was accepted by The Journal of the Acoustical Society of America.
+Our book chapter entitled '[Chapter 12 - SPH modeling for soil mechanics with application to landslides](https://www.sciencedirect.com/science/article/pii/B9780128212059000046)' was published online.
