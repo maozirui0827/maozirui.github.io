@@ -1,6 +1,6 @@
 ---
 title: "Phase Field Modeling of microstructure evolution"
-excerpt: "Layer retraction with a constant mobility of material1<br/><img src='/images/independent.gif'>"
+excerpt: "Layer retraction with a constant mobility of material <br/><img src='/images/independent.gif'>"
 collection: portfolio
 ---
 
