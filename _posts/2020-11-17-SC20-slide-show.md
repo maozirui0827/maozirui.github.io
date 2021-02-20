@@ -1,6 +1,6 @@
 ---
 title: 'A slides show on SC20 Virtual Exhibit Event'
-date: 2020-09-23
+date: 2020-11-17
 permalink: /posts/2020-11-17-SC20-slide-show/
 tags:
   - cool posts
