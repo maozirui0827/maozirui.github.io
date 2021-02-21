@@ -6,7 +6,7 @@ collection: portfolio
 
 
 
-## Strain-to-Failure model
+# Strain-to-Failure model
 
 predicts the failure of products under given bonding load:
 
@@ -20,9 +20,9 @@ predicts the failure of products under given bonding load:
 
 
 
-## Squeeze-flow model
+# Squeeze-flow model
 
-predicts the stress experience by material vs. layer thickness:
+predicts the stress experienced by material vs. layer thickness:
 
 <img src="https://maozirui.github.io/images/bond3.jpg" width="600"/>
 
@@ -32,7 +32,7 @@ predicts the stress experience by material vs. layer thickness:
 
 
 
-## Bond Strength model
+# Bond Strength model
 
 predicts bond strength of material due to the given high-strain-rate roll bonding
 
@@ -44,7 +44,7 @@ predicts bond strength of material due to the given high-strain-rate roll bondin
 
 
 
-## Geometry builder of nub on the roll surface
+# Geometry builder of nub on the roll surface
 
 <img src="https://maozirui.github.io/images/Nub_Shape_Builder.gif" width="600"/>
 
@@ -52,7 +52,7 @@ predicts bond strength of material due to the given high-strain-rate roll bondin
 
 
 
-## Shear Peeling Strength model
+# Shear Peeling Strength model
 
  <img src="https://maozirui.github.io/images/bond7.gif" width="600"/>
 
