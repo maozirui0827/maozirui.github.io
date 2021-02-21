@@ -4,13 +4,9 @@ excerpt: "2019.06-present: Control of Allan-Chan equation and Cahn-Hilliard equa
 collection: portfolio
 ---
 
-
-
-## A sample of controlling microstructure evolution
-
 ## Samples of controlling microstructure evolution
 
-<img src="https://maozirui.github.io/images/control1.gif" width="335"/><img src="https://maozirui.github.io/images/control2.gif" width="375"/>
+​     <img src="https://maozirui.github.io/images/control1.gif" width="335"/><img src="https://maozirui.github.io/images/control2.gif" width="375"/>         
 
 <img src="https://maozirui.github.io/images/control3.gif" width="375"/><img src="https://maozirui.github.io/images/control4.gif" width="375"/>
 
