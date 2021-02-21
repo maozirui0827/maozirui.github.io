@@ -10,7 +10,7 @@ collection: portfolio
 
 <img src="https://maozirui.github.io/images/grid.png" width="375"/> <img src="https://maozirui.github.io/images/GSD.gif" width="375"/>
 
-<img src="https://maozirui.github.io/images/3DLGSM.gif" width="375"/>
+<img src="https://maozirui.github.io/images/3DLGSM.gif" width="750"/>
 
 
 
