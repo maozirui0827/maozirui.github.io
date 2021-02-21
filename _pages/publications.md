@@ -4,7 +4,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2021
+
+<b>[SPH modeling for soil mechanics with application to landslides](https://maozirui.github.io/publications/SPH-landslide-chapter_2021)</b> <br> 
+G. R. Liu, <b>Zirui Mao</b>, and Yu Huang
+<i>Modeling in Geotechnical Engineering 2021</i>.
+
+
+
 ## 2020
+
 <b>[Perfectly matched layer absorbing boundary conditions for Euler equations with oblique mean flows modeled with smoothed particle hydrodynamics](https://maozirui.github.io/publications/SPH_BC_2020)</b> <br> 
 Jie Yang, Xinyu Zhang, G. R. Liu, <b>Zirui Mao</b>, and Wenping Zhang
 <i>The Journal of the Acoustical Society of America 2020</i>.
