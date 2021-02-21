@@ -1,5 +1,5 @@
 ---
-title: "Optimal Control of Microstructure Evolution"
+title: "2019 Optimal Control of Microstructure Evolution"
 excerpt: "2019.06-present: Control of Allan-Chan equation and Cahn-Hilliard equation"
 collection: portfolio
 ---
