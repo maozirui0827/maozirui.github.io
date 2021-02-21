@@ -1,26 +1,30 @@
 ---
-title: "Optimal Control of Microstructure Evolution"
-excerpt: "2019.06-present: Control of Allan-Chan equation and Cahn-Hilliard equation"
+title: "Meshfree methods for large-deformation problems"
+excerpt: "2014.08-2019.05: L-GSM simulation of soil problems and hydrodynamics with large deformation"
 collection: portfolio
 ---
 
 
 
-## A sample of controlling microstructure evolution
+## Samples of L-GSM simulation of soil problems
 
-## Samples of controlling microstructure evolution
+<img src="https://maozirui.github.io/images/soil1.gif" width="375"/><img src="https://maozirui.github.io/images/soil2.gif" width="375"/>
 
-<img src="https://maozirui.github.io/images/control1.gif" width="335"/><img src="https://maozirui.github.io/images/control2.gif" width="375"/>
+<img src="https://maozirui.github.io/images/soil3.gif" width="375"/><img src="https://maozirui.github.io/images/soil4.gif" width="375"/>
 
-<img src="https://maozirui.github.io/images/control3.gif" width="375"/><img src="https://maozirui.github.io/images/control4.gif" width="375"/>
-
-<img src="https://maozirui.github.io/images/control5.gif" width="375"/><img src="https://maozirui.github.io/images/control6.gif" width="375"/>
+<img src="https://maozirui.github.io/images/soil5.gif" width="375"/><img src="https://maozirui.github.io/images/soil6.gif" width="375"/>
 
 
 
+## Samples of L-GSM simulation of hydrodynamics
+
+<img src="https://maozirui.github.io/images/hydrodynamics1.gif" width="375"/><img src="https://maozirui.github.io/images/hydrodynamics2.gif" width="375"/>
+
+<img src="https://maozirui.github.io/images/hydrodynamics3.gif" width="375"/><img src="https://maozirui.github.io/images/hydrodynamics4.gif" width="375"/>
 
 
-## More is coming soon ...  
 
+## Samples of L-GSM simulation of incompressible flows
 
+<img src="https://maozirui.github.io/images/incompressible1.gif" width="375"/><img src="https://maozirui.github.io/images/incompressible2.gif" width="375"/>
 
