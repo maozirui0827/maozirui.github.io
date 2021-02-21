@@ -10,9 +10,9 @@ collection: portfolio
 
 <img src="https://maozirui.github.io/images/soil1.gif" width="375"/><img src="https://maozirui.github.io/images/soil2.gif" width="375"/>
 
-<img src="https://maozirui.github.io/images/soil3.gif" width="375"/><img src="https://maozirui.github.io/images/soil4.gif" width="375"/>
+<img src="https://maozirui.github.io/images/landslides.gif" width="750"/>
 
-<img src="https://maozirui.github.io/images/soil5.gif" width="375"/><img src="https://maozirui.github.io/images/soil6.gif" width="375"/>
+
 
 
 
