@@ -1,22 +1,24 @@
 ---
-title: "Optimal Control of Microstructure Evolution"
-excerpt: "2019.06-present: Control of Allan-Chan equation and Cahn-Hilliard equation"
+title: "Lid-driven cavity flow"
+excerpt: "2015.09-2016.06: FDM simulation of cavity flow driven by moving lid"
 collection: portfolio
 ---
 
-## Samples of controlling microstructure evolution
+## Samples of cavity flow driven by constantly moving lid
 
-​     <img src="https://maozirui.github.io/images/control1.gif" width="335"/><img src="https://maozirui.github.io/images/control2.gif" width="375"/>         
+<img src="https://maozirui.github.io/images/cavity1.mp4" width="600"/>
 
-<img src="https://maozirui.github.io/images/control3.gif" width="375"/><img src="https://maozirui.github.io/images/control4.gif" width="375"/>
-
-<img src="https://maozirui.github.io/images/control5.gif" width="375"/><img src="https://maozirui.github.io/images/control6.gif" width="375"/>
+<img src="https://maozirui.github.io/images/cavity2.mp4" width="600"/>
 
 
 
 
 
-## More is coming soon ...  
+## Samples of cavity flow driven by inconstantly moving lid
+
+ <img src="https://maozirui.github.io/images/cavity3.gif" width="600"/>
+
+<img src="https://maozirui.github.io/images/cavity3.gif" width="600"/>
 
 
 
