@@ -20,7 +20,7 @@ collection: portfolio
 
 
 
-## Plateau-Rayleigh instability
+## Retraction of cylinder and Plateau-Rayleigh instability
 
 <img src="https://maozirui.github.io/images/finite cylinder retraction.gif" width="375"/><img src="https://maozirui.github.io/images/cylinder retraction.gif" width="375"/>
 
