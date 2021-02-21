@@ -6,7 +6,7 @@ collection: portfolio
 
 
 
-## 3D L-GSM: GSD-construction and 3D Simulation
+## <u>3D L-GSM: GSD-construction and 3D Simulation</u>
 
 <img src="https://maozirui.github.io/images/grid.png" width="375"/> <img src="https://maozirui.github.io/images/GSD.gif" width="375"/>
 
@@ -16,7 +16,7 @@ collection: portfolio
 
 
 
-## Samples of L-GSM simulation of soil problems
+## <u>Samples of L-GSM simulation of soil problems</u>
 
 <img src="https://maozirui.github.io/images/soil1.gif" width="375"/><img src="https://maozirui.github.io/images/soil2.gif" width="375"/>
 
@@ -30,7 +30,7 @@ collection: portfolio
 
 
 
-## Samples of L-GSM simulation of hydrodynamics
+## <u>Samples of L-GSM simulation of hydrodynamics</u>
 
 <img src="https://maozirui.github.io/images/hydrodynamics.gif" width="750"/>
 
@@ -40,7 +40,7 @@ collection: portfolio
 
 
 
-## Samples of L-GSM simulation of incompressible flows
+## <u>Samples of L-GSM simulation of incompressible flows</u>
 
 <img src="https://maozirui.github.io/images/incompressible1.gif" width="375"/><img src="https://maozirui.github.io/images/incompressible2.gif" width="375"/>
 
