@@ -1,5 +1,5 @@
 ---
-title: "Phase Field Modeling of microstructure evolution"
+title: "2019 Phase Field Modeling of microstructure evolution"
 excerpt: "2019.06-2020.12: Retraction of layer, finite plate, and cylinder"
 collection: portfolio
 ---
