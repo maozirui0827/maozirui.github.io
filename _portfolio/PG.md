@@ -44,8 +44,6 @@ predicts bond strength of material due to the given high-strain-rate roll bondin
 
 
 
-
-
 ## Geometry builder of nub on the roll surface
 
 <img src="https://maozirui.github.io/images/Nub_Shape_Builder.gif" width="600"/>
@@ -54,11 +52,11 @@ predicts bond strength of material due to the given high-strain-rate roll bondin
 
 
 
-## Numerical predictor of material
+## Shear Peeling Strength model
 
- <img src="https://maozirui.github.io/images/cavity4.gif" width="750"/>
+ <img src="https://maozirui.github.io/images/bond7.gif" width="600"/>
 
-<img src="https://maozirui.github.io/images/cavity3.gif" width="750"/>
+
 
 
 
