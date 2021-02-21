@@ -4,8 +4,6 @@ excerpt: "Time period: 2019.06-2020.12. Retraction of layer, finite plate, and c
 collection: portfolio
 ---
 
-## Layer retraction with a constant （left）and inconstant (right) mobility of material 
-
 
 
 ## Retraction of  layer
