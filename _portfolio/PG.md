@@ -22,7 +22,7 @@ predicts the failure of products under given bonding load:
 
 # Squeeze-flow model
 
-predicts the stress experience by material vs. layer thickness:
+predicts the stress experienced by material vs. layer thickness:
 
 <img src="https://maozirui.github.io/images/bond3.jpg" width="600"/>
 
