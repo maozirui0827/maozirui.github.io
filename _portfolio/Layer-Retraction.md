@@ -1,6 +1,6 @@
 ---
 title: "Phase Field Modeling of microstructure evolution"
-excerpt: ""
+excerpt: "Retraction of layer, finite plate, and cylinder"
 collection: portfolio
 ---
 
