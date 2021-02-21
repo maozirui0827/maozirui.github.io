@@ -24,7 +24,3 @@ redirect_from:
   * Highly efficient physics-based models
 
 
-
-
-
-# Under Construction
