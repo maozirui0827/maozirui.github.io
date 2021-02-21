@@ -6,9 +6,9 @@ collection: portfolio
 
 ## Samples of cavity flow driven by constantly moving lid
 
-<img src="https://maozirui.github.io/images/cavity1.mp4" width="600"/>
+<img src="https://maozirui.github.io/images/cavity1.gif" width="600"/>
 
-<img src="https://maozirui.github.io/images/cavity2.mp4" width="600"/>
+<img src="https://maozirui.github.io/images/cavity2.gif" width="600"/>
 
 
 
