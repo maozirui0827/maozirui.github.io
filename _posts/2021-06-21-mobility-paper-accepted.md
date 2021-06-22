@@ -8,4 +8,4 @@ tags:
   - category2
 ---
 
-Our paper entitled '[Mobility inference of the Cahn–Hilliard equation from a model experiment]([https://rdcu.be/cmXBX])' was accepted.
+Our paper entitled '[Mobility inference of the Cahn–Hilliard equation from a model experiment](https://link.springer.com/article/10.1557/s43578-021-00266-7#Sec23)' was accepted.
