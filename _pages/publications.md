@@ -6,6 +6,12 @@ author_profile: true
 
 ## 2021
 
+<b>[Mobility inference of the Cahn–Hilliard equation from a model experiment]([https://rdcu.be/cmXBX](https://urldefense.com/v3/__https://rdcu.be/cmXBX__;!!KwNVnqRv!VWygKk1Zg2mcMdJHuzqGmHfF8XqAcPOBBuh9a5hSVK1Y8aUUkwuAHqdCyR2tQQ$))</b> <br> 
+<b>Zirui Mao</b>, and Michael J. Demkowicz
+<i>Journal of Material Research 2021</i>.
+
+
+
 <b>[SPH modeling for soil mechanics with application to landslides](https://maozirui.github.io/publications/SPH-landslide-chapter_2021)</b> <br> 
 G. R. Liu, <b>Zirui Mao</b>, and Yu Huang
 <i>Modeling in Geotechnical Engineering 2021</i>.
