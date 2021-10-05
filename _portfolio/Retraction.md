@@ -25,4 +25,8 @@ collection: portfolio
 <img src="https://maozirui.github.io/images/finite cylinder retraction.gif" width="375"/><img src="https://maozirui.github.io/images/cylinder retraction.gif" width="375"/>
 
 
+## Joint of nano-layered composite
+
+<img src="https://maozirui.github.io/images/NMC1.avi" width="375"/><img src="https://maozirui.github.io/images/NMC2.avi" width="375"/>
+
 
