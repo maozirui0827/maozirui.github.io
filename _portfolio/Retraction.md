@@ -29,7 +29,3 @@ collection: portfolio
 
 <img src="https://maozirui.github.io/images/NMC1.avi" width="375"/><img src="https://maozirui.github.io/images/NMC2.avi" width="375"/>
 
-
-## Development of an adaptive mesh generation algorithm
-
-<img src="https://maozirui.github.io/images/adpmesh.gif" width="375"/>
