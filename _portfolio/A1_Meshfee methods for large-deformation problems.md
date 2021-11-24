@@ -34,7 +34,7 @@ collection: portfolio
 
 ## <u>Samples of L-GSM simulation of hydrodynamics</u>
 
-<img src="https://maozirui.github.io/images/hydrodynamics1.gif" width="250"/><img src="https://maozirui.github.io/images/hydrodynamics2.gif" width="250"/><img src="https://maozirui.github.io/images/hydrodynamics3.gif" width="250"/>
+<img src="https://maozirui.github.io/images/hydrodynamics1.gif" width="240"/><img src="https://maozirui.github.io/images/hydrodynamics2.gif" width="250"/><img src="https://maozirui.github.io/images/hydrodynamics3.gif" width="250"/>
 
 <img src="https://maozirui.github.io/images/hydrodynamics4.gif" width="750"/>
 
