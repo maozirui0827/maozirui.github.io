@@ -14,10 +14,10 @@ redirect_from:
 
 # Areas of expertise
   * Computational Mechanics 
-  * Numerical Methods including Meshfree Methods (SPH, L-GSM, PIC) and Grid-based Methods (FEM, GSM, FDM)
+  * Meshfree Methods (SPH, L-GSM, PIC) and Grid-based Methods (FEM, GSM, FDM)
   * Phase Field Method
   * Optimal control algorithms
-  * Applications: Earthquake harzards, Hydrodynamics, Material processing, Microstructure evolution
+  * Applications: Earthquake, Hydrodynamics, Material processing, Microstructure evolution
   * High performance computation 
   * Software development and design 
   * Highly efficient physics-based models
