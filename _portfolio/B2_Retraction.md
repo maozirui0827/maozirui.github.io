@@ -28,7 +28,7 @@ collection: portfolio
 
 ## Joint of nano-layered composite
 
-<img src="https://maozirui.github.io/images/NMC2.gif" width="250"/><img src="https://maozirui.github.io/images/NMC1.gif" width="250"/><img src="https://maozirui.github.io/images/NMC3.gif" width="250"/>
+<img src="https://maozirui.github.io/images/NMC2.gif" width="250"/><img src="https://maozirui.github.io/images/NMC1.gif" width="250"/><img src="https://maozirui.github.io/images/NMC3.gif" width="250"/> 
 
 
 
