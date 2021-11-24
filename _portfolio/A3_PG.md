@@ -58,5 +58,11 @@ predicts bond strength of material due to the given high-strain-rate roll bondin
 
 
 
+# Relevant paper publications and software (P&G archieved)
+- Zirui Mao, Joe Grolmes, Rakesh Gummalla, Vito Carla, Rong Deng, Mattias Hilpert, M&S approachto predict non-adhesive squeeze flow (Fusion Bond/CPW) and visual appearance for 2+ layers,P&G,Cincinnati, 2016.2.
+
+- Zirui Mao, Mike Page, Joe Grolmes, Rakesh Gummalla, Rong Deng, Strain-to-failure prediction of2D patterns made of polymers material employed in FemCare/BabyCare products,P&G, Cincinnati,2017.3.
+
+- Zirui Mao, Joe Grolmes, Rakesh Gummalla, Rong Deng, Stuart Lebowitz, Vito Carla, Mattias Hilpert,Bond strength prediction of whole pattern after multiple layers bonding process,P&G, Cincinnati,2018.
 
 
