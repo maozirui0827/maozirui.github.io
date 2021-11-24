@@ -1,6 +1,6 @@
 ---
-title: "2015 Processing of polymeric materials"
-excerpt: "2015.09-2019.06: High strain-rate mechanical bonding of multi-layer polymeric materials"
+title: "Processing of polymeric materials"
+excerpt: "Done 2015.09-2019.06: High strain-rate mechanical bonding of multi-layer polymeric materials"
 collection: portfolio
 ---
 
