@@ -6,7 +6,7 @@ author_profile: true
 
 ## 2021
 
-<b>[Mobility inference of the Cahn–Hilliard equation from a model experiment](https://maozirui.github.io/publications/PFM_Mobility-paper-2021)</b> <br> 
+<b>[Mobility inference of the Cahn–Hilliard equation from a model experiment](https://maozirui.github.io/publications/PFM_mobility-2021)</b> <br> 
 <b>Zirui Mao</b>, and Michael J. Demkowicz
 <i>Journal of Material Research 2021</i>.
 
