@@ -20,9 +20,7 @@ collection: portfolio
 
 ## <u>Samples of L-GSM simulation of soil problems</u>
 
-<img src="https://maozirui.github.io/images/soil1.gif" width="750"/>
-
-<img src="https://maozirui.github.io/images/soil2.gif" width="750"/>
+<img src="https://maozirui.github.io/images/soil1.gif" width="375"/> <img src="https://maozirui.github.io/images/soil2.gif" width="375"/>
 
 <img src="https://maozirui.github.io/images/landslides.gif" width="750"/>
 
@@ -36,11 +34,7 @@ collection: portfolio
 
 ## <u>Samples of L-GSM simulation of hydrodynamics</u>
 
-<img src="https://maozirui.github.io/images/hydrodynamics1.gif" width="750"/>
-
-<img src="https://maozirui.github.io/images/hydrodynamics2.gif" width="750"/>
-
-<img src="https://maozirui.github.io/images/hydrodynamics3.gif" width="750"/>
+<img src="https://maozirui.github.io/images/hydrodynamics1.gif" width="250"/><img src="https://maozirui.github.io/images/hydrodynamics2.gif" width="250"/><img src="https://maozirui.github.io/images/hydrodynamics3.gif" width="250"/>
 
 <img src="https://maozirui.github.io/images/hydrodynamics4.gif" width="750"/>
 
