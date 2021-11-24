@@ -1,6 +1,6 @@
 ---
-title: "2014 Meshfree methods for large-deformation problems"
-excerpt: "2014.08-2019.05: L-GSM simulation of soil problems and hydrodynamics with large deformation"
+title: "Meshfree methods for large-deformation problems"
+excerpt: "2014.08-2019.05 | PhD research: A stable and efficient meshfree method for simulating soil problems and hydrodynamics with large deformation"
 collection: portfolio
 ---
 
