@@ -7,9 +7,8 @@ collection: portfolio
 
 
 ## Retraction of  layer
-<img src="https://maozirui.github.io/images/Retracting1.gif" width="750"/>
-<img src="https://maozirui.github.io/images/independent.gif" width="750"/>
-<img src="https://maozirui.github.io/images/dependent.gif" width="750"/>
+<img src="https://maozirui.github.io/images/Retracting1.gif" width="600"/>
+<img src="https://maozirui.github.io/images/independent.gif" width="375"/><img src="https://maozirui.github.io/images/dependent.gif" width="375"/>
 
 
 
@@ -17,8 +16,7 @@ collection: portfolio
 
 ## Retraction of finite plate  
 
-<img src="https://maozirui.github.io/images/36.gif" width="750"/>  
-<img src="https://maozirui.github.io/images/60.gif" width="750"/>
+<img src="https://maozirui.github.io/images/36.gif" width="375"/><img src="https://maozirui.github.io/images/60.gif" width="375"/>
 
 
 
@@ -30,9 +28,7 @@ collection: portfolio
 
 ## Joint of nano-layered composite
 
-<img src="https://maozirui.github.io/images/NMC2.gif" width="750"/>
-<img src="https://maozirui.github.io/images/NMC1.gif" width="750"/>
-<img src="https://maozirui.github.io/images/NMC3.gif" width="750"/>
+<img src="https://maozirui.github.io/images/NMC2.gif" width="250"/><img src="https://maozirui.github.io/images/NMC1.gif" width="250"/><img src="https://maozirui.github.io/images/NMC3.gif" width="250"/>
 
 
 
