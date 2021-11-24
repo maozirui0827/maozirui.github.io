@@ -7,7 +7,7 @@ collection: portfolio
 
 
 ## Retraction of  layer
-
+<img src="https://maozirui.github.io/images/Retracting1.gif" width="750"/>
 <img src="https://maozirui.github.io/images/independent.gif" width="750"/>
 <img src="https://maozirui.github.io/images/dependent.gif" width="750"/>
 
