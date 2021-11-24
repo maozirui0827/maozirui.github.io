@@ -20,7 +20,7 @@ collection: portfolio
 
 ## <u>Samples of L-GSM simulation of soil problems</u>
 
-<img src="https://maozirui.github.io/images/soil1.gif" width="430"/> <img src="https://maozirui.github.io/images/soil2.gif" width="320"/>
+<img src="https://maozirui.github.io/images/soil1.gif" width="450"/> <img src="https://maozirui.github.io/images/soil2.gif" width="300"/>
 
 <img src="https://maozirui.github.io/images/landslides.gif" width="750"/>
 
