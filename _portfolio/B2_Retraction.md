@@ -29,3 +29,11 @@ collection: portfolio
 
 <img src="https://maozirui.github.io/images/NMC1.gif" width="375"/><img src="https://maozirui.github.io/images/NMC2.gif" width="375"/>
 
+
+
+## Relevant papers publication
+<b>[Mobility inference of the Cahn–Hilliard equation from a model experiment](https://maozirui.github.io/publications/PFM_mobility-2021)</b> <br> 
+<b>Zirui Mao</b>, and Michael J. Demkowicz
+<i>Journal of Material Research 2021</i>.
+
+More papers are coming ...
