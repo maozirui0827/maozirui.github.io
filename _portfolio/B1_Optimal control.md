@@ -1,6 +1,6 @@
 ---
 title: "Optimal Control of Microstructure Evolution"
-excerpt: "2019.06-present \| Postdoc research 1 @ TAMU: Control of Allan-Chan equation and Cahn-Hilliard equation by coupling phase-field models with reinforcement learning algorithms"
+excerpt: "2019.06-present /| Postdoc research 1 @ TAMU: Control of Allan-Chan equation and Cahn-Hilliard equation by coupling phase-field models with reinforcement learning algorithms"
 collection: portfolio
 ---
 
