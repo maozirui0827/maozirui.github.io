@@ -1,7 +1,7 @@
 ---
 title: "Mobility inference of the Cahn–Hilliard equation from a model experiment"
 collection: publications
-permalink: /publications/Mobility-paper-2021
+permalink: /publications/PFM_mobility-2021
 date: 2021-06-21
 venue: 'Journal of Material Research'
 ---
