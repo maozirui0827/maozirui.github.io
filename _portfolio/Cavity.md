@@ -1,6 +1,6 @@
 ---
-title: "2015: Lid-driven cavity flow"
-excerpt: "2015.09-2016.06: FDM simulation of cavity flow driven by moving lid"
+title: "Lid-driven cavity flow"
+excerpt: "2015.09-2016.06 | PhD side project: FDM simulation of cavity flow driven by moving lid"
 collection: portfolio
 ---
 
