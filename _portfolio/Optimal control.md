@@ -1,6 +1,6 @@
 ---
-title: "2019 Optimal Control of Microstructure Evolution"
-excerpt: "2019.06-present: Control of Allan-Chan equation and Cahn-Hilliard equation"
+title: "Optimal Control of Microstructure Evolution"
+excerpt: "Doing 2019.06-present: Control of Allan-Chan equation and Cahn-Hilliard equation by coupling phase-field models with reinforcement learning algorithms"
 collection: portfolio
 ---
 
