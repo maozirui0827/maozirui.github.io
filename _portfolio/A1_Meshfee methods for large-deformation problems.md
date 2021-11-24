@@ -44,7 +44,7 @@ collection: portfolio
 
 ## <u>Samples of L-GSM simulation of incompressible flows</u>
 
-<img src="https://maozirui.github.io/images/incompressible1.gif" width="375"/><img src="https://maozirui.github.io/images/incompressible2.gif" width="375"/>
+<img src="https://maozirui.github.io/images/incompressible1.gif" width="200"/><img src="https://maozirui.github.io/images/incompressible2.gif" width="200"/>
 
 
 
