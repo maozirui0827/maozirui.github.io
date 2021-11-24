@@ -1,6 +1,6 @@
 ---
 title: "Phase Field Modeling of microstructure evolution"
-excerpt: "2019.06-2021.09 | Postdoc research 2: Retraction of layer, finite plate, and cylinder, NMC"
+excerpt: "2019.06-2021.09 / Postdoc research 2: Retraction of layer, finite plate, and cylinder, NMC"
 collection: portfolio
 ---
 
