@@ -1,6 +1,6 @@
 ---
-title: "2019 Phase Field Modeling of microstructure evolution"
-excerpt: "2019.06-2020.12: Retraction of layer, finite plate, and cylinder"
+title: "Phase Field Modeling of microstructure evolution"
+excerpt: "Done 2019.06-2020.12. Retraction of layer, finite plate, and cylinder"
 collection: portfolio
 ---
 
@@ -27,5 +27,5 @@ collection: portfolio
 
 ## Joint of nano-layered composite
 
-<img src="https://maozirui.github.io/images/NMC1.gif" width="265"/><img src="https://maozirui.github.io/images/NMC2.gif" width="485"/>
+<img src="https://maozirui.github.io/images/NMC1.gif" width="375"/><img src="https://maozirui.github.io/images/NMC2.gif" width="375"/>
 
