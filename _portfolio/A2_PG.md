@@ -1,6 +1,6 @@
 ---
 title: "Processing of polymeric materials"
-excerpt: "2015.09-2019.06 / Research @ UC-P&G Simulation Center: High strain-rate mechanical bonding of multi-layer polymeric materials"
+excerpt: "2015.09-2019.06 / PhD Research @ UC-P&G Simulation Center: High strain-rate mechanical bonding of multi-layer polymeric materials"
 collection: portfolio
 ---
 
