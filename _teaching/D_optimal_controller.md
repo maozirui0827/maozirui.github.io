@@ -7,4 +7,4 @@ venue: "in-house code"
 date: 2021-11-20
 ---
 
-This software enables optimal control of microstructure's evolution through coupling phase-field models with reinforcement learning algorithms. The microstructure can be guided from any initial unstructured state to any target state with the least cost. Please refer to the [examples](https://maozirui.github.io/portfolio/B1_Optimal%20control/).
+This software enables optimal control of microstructure's evolution through coupling phase-field models with reinforcement learning algorithms. The microstructure can be guided from any initial, unstructured state to any target state with the least cost. Please refer to the [examples](https://maozirui.github.io/portfolio/B1_Optimal%20control/).
