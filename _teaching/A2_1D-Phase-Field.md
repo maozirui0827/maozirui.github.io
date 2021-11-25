@@ -2,7 +2,7 @@
 title: "1D Phase Field software"
 collection: teaching
 type: "Matlab GUI"
-permalink: /teaching/2020-03-1D-Phase-Field
+permalink: /teaching/A2_1D-Phase-Field
 venue: "Tutorial freeware"
 date: 2020-03-19
 ---
