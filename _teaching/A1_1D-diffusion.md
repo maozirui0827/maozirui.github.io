@@ -4,7 +4,7 @@ collection: teaching
 type: "Matlab GUI"
 permalink: /teaching/A1_1D-diffusion
 venue: "Tutorial freeware"
-date: 2020-01-23
+date: 2021-11-23
 location: "College Station, TX, USA"
 ---
 
