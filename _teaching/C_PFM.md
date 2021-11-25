@@ -7,4 +7,4 @@ venue: "in-house code"
 date: 2021-09-20
 ---
 
-The Phase-Field platform solves the general Allan-Cahn and Cahn-Hilliard equations using Finite Difference Method (with uniform grid) or Gradient Smoothing Method (with adaptive grid). Two numerical solvers are provided: a simple explicit solver and an efficient implicit solver. The in-house code will be released as planned associated with upcoming paper publication.
+The Phase-Field platform solves the general Allan-Cahn and Cahn-Hilliard equations using <u>Finite Difference Method</u> (with uniform grid) or <u>Gradient Smoothing Method</u> (with adaptive grid). Two numerical solvers are provided: a simple <u>explicit solver</u> and an efficient <u>implicit solver</u>. The in-house code will be released as planned associated with upcoming paper publication.
