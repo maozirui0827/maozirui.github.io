@@ -17,17 +17,21 @@ Education
 
 Work experience
 ======
-* 06/2019 - present: Postdoc Researcher
+* 01/2022 - present: Postdoc Associate
+  * Pacific Northwest National Library \| Mentor: Dr. [Shenyang Hu](https://scholar.google.com/citations?user=_lq5saoAAAAJ&hl=en)
+  * Duties included: Develop advanced phase-field models for simulating microstructure evolution
+
+* 06/2019 - 12/2021: Postdoc Researcher
   * Texas A&M University \| Supervisor: Professor [Michael J Demkowicz](https://demkowicz.tamu.edu/people/michael-j-demkowicz/)
-  * Duties included: Phase Field modeling and optimal control of material microstruture evolution during processing
+  * Duties included: Phase Field modeling and optimal control of material microstruture evolution
 
 * 08/2015 - 05/2019: Assistant Researcher
   * [UC-P&G Simulation Center](https://ceas.uc.edu/research/centers-labs/uc-simulation-center/mission.html)
-  * Duties included: Development of highly-effcient physics-based models for predicting failure, bond strength, and deformation of polymeric materials under high-strain-rate compression and thermal/mechanics bonding
+  * Duties included: develop highly-effcient physics-based models for predicting failure, bond strength, and deformation of polymeric materials under high-strain-rate compression and thermal/mechanics bonding
   
 * 08/2014 - 05/2019: Assistant Researcher
   * University of Cincinnati \| Supervisor: Professor [G.R. Liu](http://www.ase.uc.edu/~liugr/people.html)
-  * Duties included: Noval meshfree method development and improvement for modeling large deformation problems
+  * Duties included: develop noval meshfree method for modeling large deformation problems
   
 * 03/2013 - 07/2014: Lecturer
   * Global Education Inc.  [(北京环球雅思)](http://www.gedu.org/)
