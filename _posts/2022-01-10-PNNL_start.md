@@ -8,4 +8,4 @@ tags:
   - category2
 ---
 
-Zirui Mao will join Pacific Northwest National Library and start new research with Dr. [Shenyang Hu](https://scholar.google.com/citations?user=_lq5saoAAAAJ&hl=en) being the direct mentor. 
+Zirui Mao will leave from TAMU in the end of 2021. Next, he will join Pacific Northwest National Library and start new research with Dr. [Shenyang Hu](https://scholar.google.com/citations?user=_lq5saoAAAAJ&hl=en) being the direct mentor. 
