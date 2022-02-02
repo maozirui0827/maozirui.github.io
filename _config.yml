@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zirui Mao"
 title_separator          : "-"
 name                     : &name "Zirui Mao"
-description              : &description "Postdoc, Department of Material Science and Engineering, Texas A&M University"
+description              : &description "Postdoc, PCSD, PNNL"
 url                      : https://maozirui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "maozirui/maozirui.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Zirui Mao, PhD"
   avatar           : "ziruimao.png"
-  bio              : "Postdoc, Department of Material Science and Engineering, Texas A&M University"
-  location         : "College Station, Texas"
+  bio              : "Postdoc, PCSD, PNNL"
+  location         : "Richland, WA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=o5mccd8AAAAJ&hl=en"
-  email            : "maozr@tamu.edu"
+  email            : "maozu@mail.uc.edu"
   researchgate     : "https://www.researchgate.net/profile/Zirui_Mao"
   uri              :
   bitbucket        :
@@ -101,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
+  linkedin         : "https://www.linkedin.com/in/zirui-mao/"
   orcid            : "http://orcid.org/0000-0003-3223-8921"
   pinterest        :
   soundcloud       :
