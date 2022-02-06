@@ -16,8 +16,8 @@ redirect_from:
   * Computational Mechanics 
   * Numerical methods: meshfree methods (SPH, L-GSM, PIC), grid-based Methods (FEM, GSM, FDM, spectral method)
   * Phase Field method, mesh construting algorithm, Optimal Control algorithms
-  * High performance parallel computation (openmpi, mpi), software development and design
-  * Large deformation fluids/solids flows governed by Navier-Stokes equations
+  * Parallel programming (openmpi, mpi), software development and design
+  * Large deformation flow of fluids/solids governed by Navier-Stokes equations
   * Applications: Earthquake-induced landslides, Hydrodynamics, Material processing, Microstructure evolution
 
 
