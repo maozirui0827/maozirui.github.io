@@ -6,7 +6,7 @@ collection: portfolio
 
 ## Samples of controlling microstructure evolution
 
-​     <img src="https://maozirui.github.io/images/Optimal_control_samples" width="750"/>
+​     <img src="https://maozirui.github.io/images/Optimal_control_samples.png" width="750"/>
 
 <img src="https://maozirui.github.io/images/control1.gif" width="335"/><img src="https://maozirui.github.io/images/control2.gif" width="375"/>         
 
