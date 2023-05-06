@@ -32,7 +32,7 @@ collection: portfolio
 
 <img src="https://maozirui.github.io/images/hydrodynamics4.gif" width="710"/>
 
-<img src="https://maozirui.github.io/images/splash_L-GSM.gif" width="710"/>
+<img src="https://maozirui.github.io/images/LGSM4splasn.gif" width="710"/>
 
 
 
