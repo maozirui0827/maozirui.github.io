@@ -12,7 +12,7 @@ redirect_from:
   <img src="https://maozirui.github.io/images/CM3.png" alt="Photo" style="width: 785px;"/> 
 </p>
 
-# Areas of expertise
+# Research areas
   * Computational Mechanics 
   * Numerical methods: meshfree methods (SPH, L-GSM, PIC), grid-based Methods (FEM, GSM, FDM, Spectral method)
   * Phase Field method, mesh constructing algorithm, Optimal Control algorithms
