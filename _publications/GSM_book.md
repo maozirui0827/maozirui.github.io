@@ -1,5 +1,5 @@
 ---
-title: "GSM programming book"
+title: "Gradient Smoothing Methods with Programming: Applications to Fluids and Landslides"
 collection: publications
 permalink: /publications/GSM-book-2024
 date: 2024-1-27
