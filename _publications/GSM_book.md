@@ -38,6 +38,8 @@ Applications of GSM are highlighted, including compressible and incompressible f
 
 In-house MATLAB codes are provided for both Eulerian and Lagrangian GSMs, along with detailed descriptions. More efficient FORTRAN source codes for solving complex engineering problems are also available on Github.
 
+Part of source code is released [here](https://github.com/maozirui/GSMs_book).
+
 ## Book details
 ISBN-13:	9789811280009
 
