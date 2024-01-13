@@ -13,9 +13,9 @@ Chapter 4: Eulerian GSM for compressible flows
 
 Chapter 5: Eulerian GSM for incompressible flows 
 
-Chapter 6: Theory and formulation for Lagrangian GSM \\\
-Chapter 7: L-GSM for incompressible hydrodynamics \\\
-Chapter 8: L-GSM for granular flows in geotechnical engineering \\\
+Chapter 6: Theory and formulation for Lagrangian GSM \ \\
+Chapter 7: L-GSM for incompressible hydrodynamics \ \\
+Chapter 8: L-GSM for granular flows in geotechnical engineering \ \\
 Chapter 9: Programming with GSMs and [source codes](https://github.com/maozirui/GSMs_book) 
 
 ## Overview
