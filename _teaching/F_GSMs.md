@@ -3,7 +3,7 @@ title: "Gradient Smoothing Methods"
 collection: teaching
 type: "Matlab and Fortran"
 permalink: /teaching/F_GSM_book
-venue: "Tutorial freeware"
+venue: "in-house code"
 date: 2024-01-27
 location: "College Station, TX, USA"
 ---
