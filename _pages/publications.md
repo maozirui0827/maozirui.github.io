@@ -4,6 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2024
+
+<b>[Gradient Smoothing Methods with Programming: Applications to Fluids and Landslides](https://maozirui.github.io/publications/GSM-book-2024)</b> <br> 
+G.R. Liu and <b>Zirui Mao</b>
+<i>Book 2024</i>.
+
+
 ## 2021
 
 <b>[Mobility inference of the Cahn–Hilliard equation from a model experiment](https://maozirui.github.io/publications/PFM_mobility-2021)</b> <br> 
