@@ -1,3 +1,11 @@
+---
+title: "GSM programming"
+collection: publications
+permalink: /publications/GSM-book-2024
+date: 2024-1-27
+Publisher: 'World Scientific Publishing'
+---
+
 <p align="center">
   <img src="https://maozirui.github.io/images/GSM_book_cover.png" alt="Photo" style="width: 785px;"/> 
 </p>
