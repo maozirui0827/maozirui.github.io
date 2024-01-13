@@ -8,4 +8,4 @@ date: 2024-01-27
 location: "College Station, TX, USA"
 ---
 
-The [GSMs source code]() is released with the [GSMs book](https://maozirui.github.io/publications/GSM-book-2024).
+The [GSMs source code](https://github.com/maozirui/GSMs_book) is released with the [GSMs book](https://maozirui.github.io/publications/GSM-book-2024).
