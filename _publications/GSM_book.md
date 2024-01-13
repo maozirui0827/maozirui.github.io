@@ -1,5 +1,5 @@
 ---
-title: "GSM programming"
+title: "GSM programming book"
 collection: publications
 permalink: /publications/GSM-book-2024
 date: 2024-1-27
