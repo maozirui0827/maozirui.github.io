@@ -10,6 +10,8 @@ Publisher: 'World Scientific Publishing'
   <img src="https://maozirui.github.io/images/GSM_book_cover.png" alt="Photo" style="width: 785px;"/> 
 </p>
 
+GSMs book is published [here](https://www.worldscientific.com/doi/abs/10.1142/9789811280016_0001)
+
 ## Content table
 Chapter 1: Introduction
 
