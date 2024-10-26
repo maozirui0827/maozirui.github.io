@@ -9,6 +9,25 @@ author_profile: true
 <b>[Gradient Smoothing Methods with Programming: Applications to Fluids and Landslides](https://maozirui.github.io/publications/GSM-book-2024)</b> <br> 
 G.R. Liu and <b>Zirui Mao</b>. <i>Book 2024</i>.
 
+<b>[Optimal Control of Material Microstructures](https://asmedigitalcollection.asme.org/dynamicsystems/article/146/6/061109/1201186/Optimal-Control-of-Material-Microstructures1)</b> <br> 
+Aayushman Sharma, <b>Zirui Mao</b>. Haiying Yang, Suman Chakravorty, Michael J. Demkowicz, Dileep Kalathil. <i>Journal of Dynamic Systems, Measurement, and Control</i>.
+
+<b>[Influence of porous aluminosilicate grain size materials in experimental and modelling Cs+ adsorption kinetics and wastewater column process](https://doi.org/10.1016/j.jwpe.2024.106066)</b> <br> 
+Vanessa Proust, Antoine Leybros, Alban Gossard, Thomas David, <b>Zirui Mao</b>. Yulan Li, Shenyang Hu, Agnès Grandjean, Hans-Conrad zur Loye. <i>Journal of Water Process Engineering</i>.
+
+<b>[Phase field-volumetric lattice Boltzmann model of ion uptake in porous nuclear waste form materials under continuous flow](https://doi.org/10.1016/j.jnucmat.2024.155103)</b> <br> 
+<b>Zirui Mao</b>.  Xiaoyu Zhang, Yulan Li, Vanessa Proust, Alban Gossard, Thomas David, Robert Montgomery, Agnes Grandjean, Huidan Yu, Hans-Conrad zur Loye, Shenyang Hu <i>Journal of Nuclear Materials</i>.
+
+<b>[Volumetric lattice Boltzmann method for pore-scale mass diffusion-advection process in geopolymer porous structures](https://doi.org/10.1016/j.jrmge.2024.03.006)</b> <br> 
+Xiaoyu Zhang, <b>Zirui Mao</b>, Floyd W Hilty, Yulan Li, Agnes Grandjean, Robert Montgomery, Hans-Conrad zur Loye, Huidan Yu, Shenyang Hu <i>Journal of Rock Mechanics and Geotechnical Engineering</i>.
+
+<b>[A GPU accelerated mixed-precision Smoothed Particle Hydrodynamics framework with cell-based relative coordinates](https://doi.org/10.1016/j.jrmge.2024.03.006)</b> <br> 
+<b>Zirui Mao</b>, Xinyi Li, Shenyang Hu, Ganesh Gopalakrishnan, Ang Li <i>Engineering Analysis with Boundary Elements</i>.
+
+## 2023
+
+<b>[Revolutionizing Nuclear Waste Management: Treating the Nuclear Waste Stream for Contamination-Free Discharge](https://www.energyfrontier.us/content/revolutionizing-nuclear-waste-management-treating-nuclear-waste-stream-contamination-free)</b> <br> 
+<b>Zirui Mao</b> <i>Energy Frontier Research Center</i>.
 
 ## 2021
 
