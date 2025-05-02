@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zirui Mao, PhD"
   avatar           : "ziruimao.png"
-  bio              : "Postdoc, PCSD, PNNL"
+  bio              : "Scientist, PCSD, PNNL"
   location         : "Richland, WA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=o5mccd8AAAAJ&hl=en"
@@ -318,11 +318,11 @@ busuanzi_count:
   enable: true
   # custom uv span for the whole site
   site_uv: true
-  site_uv_header: 访客数
+  site_uv_header: Number of visitors
   site_uv_footer: 人
   # custom pv span for the whole site
   site_pv: true
-  site_pv_header: 总访问量
+  site_pv_header: Number of visits
   site_pv_footer: 次
   # custom pv span for one page only
   page_pv: true
