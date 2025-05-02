@@ -17,7 +17,11 @@ Education
 
 Work experience
 ======
-* 01/2022 - present: Postdoc Associate
+* 06/2024 - 05/2024: Computational Scientist
+  * Pacific Northwest National Library
+  * Duties included: Computational Mechanics, AI algorithm, Modeling & Simulation, HPC
+    
+* 01/2022 - 05/2024: Postdoc Associate
   * Pacific Northwest National Library \| Mentor: Dr. [Shenyang Hu](https://scholar.google.com/citations?user=_lq5saoAAAAJ&hl=en)
   * Duties included: Develop advanced phase-field models for simulating microstructure evolution
 
