@@ -7,6 +7,6 @@ venue: "in-house code"
 date: 2022-07-20
 ---
 
-This software enables adaptive remeshing based on moving material features for Gradient Smoothing Method.
+This aGSM4SPH(https://github.com/pnnl/aGSM4PFM) software enables adaptive remeshing based on moving material features for Gradient Smoothing Method.
 
 <img src="https://maozirui.github.io/images/adpmesh.gif" width="750"/>
